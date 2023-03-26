@@ -34,7 +34,7 @@ public class webtable_example {
 		
 
 		
-	
+/*	
 for (int i=2;i<all_rows.size();i++)
 {
 	for(int j=0;j<all_columns.size();j++)
@@ -45,7 +45,7 @@ List<WebElement> ColumnsData = driver.findElements(By.xpath("//table[@id='custom
 
 	}
 	System.out.println();
-}
+}*/
 	
  
 		driver.close();
